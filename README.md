@@ -1,4 +1,5 @@
 ### Hi there 👋
+Its all about the learning journey. Evey step is accounted for and counted. 
 
 <!--
 **nidhijn/nidhijn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
